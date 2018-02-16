@@ -1,0 +1,56 @@
+<!--
+  Generated template for the EnviarPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Enviar</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+    <p align="center">Orientações para o envio de arquivos.</p>
+   
+
+    <p align="center">Os arquivos a serem enviados devem estar obrigatoriamente no formato PDF.</p>
+
+    <p align="center">Somente poderá ser enviado um arquivo por vez.</p>
+
+    <p align="center">O Download dos arquivos estarão disponiveis na própria aplicação.</p>
+
+    <hr>
+
+    <p align="center">Informações Adicionais</p>
+    <p align="left">Supervisor: {{usuario.nome}}</p>
+    <p align="left">E-mail: {{usuario.email}}</p>
+    <p align="left">Seção: {{usuario.secao}}</p>
+    <p align="left">Modelo: {{modelo}} </p>
+    
+    
+    <br><br><br>
+    <ion-item>
+    <ion-label>Modelo de Contrato</ion-label>
+    <ion-select [(ngModel)]="gender">
+      <ion-option value="f">Female</ion-option>
+      <ion-option value="m">Male</ion-option>
+    </ion-select>
+  </ion-item>
+  
+    <ion-row justify-content-center>
+      <ion-col col-3>
+        <button id="login-button1" ion-button color="positive" block >Enviar</button>
+      </ion-col>
+      <ion-col col-3>
+        <button id="login-button1" ion-button color="positive" block >Buscar</button>
+      </ion-col>
+
+      
+    </ion-row>
+       
+         
+</ion-content>

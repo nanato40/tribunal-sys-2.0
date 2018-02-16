@@ -1,0 +1,24 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Login
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+<ion-content padding id="page1"><br><br><br>
+  <img src="http://tcc2017.com.br/renato/Imagens/logoNova.png" style="align-items: center;"><br><br><br><br><br>
+    <ion-item>
+        <ion-label color="primary" stacked>E-mail</ion-label>
+        <ion-input type="email" [(ngModel)]="usuario.email"  name="email" ></ion-input>
+      </ion-item>
+      <ion-item>
+          <ion-label color="primary" stacked>Senha</ion-label>
+          <ion-input type="password" [(ngModel)]="usuario.senha" name="senha" ></ion-input>
+        </ion-item><br>
+  <button id="login-button1" ion-button color="positive" block (click)="goToIndex()">
+    Entrar
+  </button>
+  <button id="login-button1" ion-button color="positive" block (click)="goToRec()">
+    Recuperar senha
+  </button>
+</ion-content>

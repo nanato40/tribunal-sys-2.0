@@ -1,0 +1,17 @@
+{
+  "name": "tsis",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  },
+  "proxies": [
+    {
+      "path": "/v1",
+      "proxyUrl": "http://localhost:8080/Api/webresources/v1"
+    }
+  ]
+
+}
+
+
