@@ -1,8 +1,8 @@
 # Tribunal Sys 2.0
 
-<center><img src="https://user-images.githubusercontent.com/35781248/35984129-e6d8ecb4-0cda-11e8-94b3-0e51094d8153.jpg">
+<center><img src="https://user-images.githubusercontent.com/35781248/36289053-ed3b6a1c-12a4-11e8-910f-2ff9a4d1c8d9.jpg">
 </center>
-<center><img src="https://user-images.githubusercontent.com/35781248/35983662-a0b09dfa-0cd9-11e8-9d51-1c8ccfc9de88.jpg">
+<center><img src="https://user-images.githubusercontent.com/35781248/36289051-eca50644-12a4-11e8-94a4-01ca3f9c7090.jpg">
 </center>
 
 
