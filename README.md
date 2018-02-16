@@ -10,35 +10,30 @@
 
 
 <table class="tg" align="center">
-   <tr>
-    <td class="tg-yw4l"><center><h1>Menu</h1></center></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l"><img src="https://user-images.githubusercontent.com/35781248/35456579-2b44a294-02bd-11e8-8461-b85083d2192b.jpg"></td>
-  </tr>
+   
   <tr>
     <td class="tg-yw4l"><br><center><h1>Meu Perfil</h1></center></td>
   </tr>
   <tr>
-    <td class="tg-yw4l"><img src="https://user-images.githubusercontent.com/35781248/35366663-b3552602-0161-11e8-844c-25eab637b09b.jpg"></td>
+    <td class="tg-yw4l"><img src="https://user-images.githubusercontent.com/35781248/36289028-cc3c17a8-12a4-11e8-873f-e5b8a6945575.jpg"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l"><br><center><h1>Gerenciar Estagiários</h1></center></td>
+    <td class="tg-yw4l"><br><center><h1>Novos Usuários</h1></center></td>
   </tr>
   <tr>
-    <td class="tg-yw4l"><img src="https://user-images.githubusercontent.com/35781248/35366662-b32eb530-0161-11e8-9764-2e01e6d86383.jpg"></td>
+    <td class="tg-yw4l"><img src="https://user-images.githubusercontent.com/35781248/36289026-cbb7db5a-12a4-11e8-97ce-d392b4c09f6e.jpg"></td>
   </tr>
   <tr>
     <td class="tg-yw4l"><br><center><h1>Login</h1></center></td>
   </tr>
   <tr>
-    <td class="tg-yw4l"><img src="https://user-images.githubusercontent.com/35781248/35410748-874ab422-01fd-11e8-9d90-96781a776f03.jpg"></td>
+    <td class="tg-yw4l"><img src="https://user-images.githubusercontent.com/35781248/36289024-cb31c6aa-12a4-11e8-947e-6070433e4e9b.jpg"></td>
   </tr>
   <tr>
     <td class="tg-yw4l"><br><center><h1>Lista de Requisições</h1></center></td>
   </tr>
   <tr>
-    <td class="tg-yw4l"><center><img src="https://user-images.githubusercontent.com/35781248/35985589-1f0f4c42-0cde-11e8-8997-fd973286772a.jpg"></center></td>
+    <td class="tg-yw4l"><center><img src="https://user-images.githubusercontent.com/35781248/36289025-cb82093a-12a4-11e8-9beb-84bef05c54c7.jpg"></center></td>
   </tr>
   <tr>
     <td class="tg-yw4l"><br><center><h1>Menu</h1></center></td>
