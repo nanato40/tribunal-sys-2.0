@@ -1,4 +1,4 @@
-# tsis
+# Tribunal Sys 2.0
 
 <center><img src="https://user-images.githubusercontent.com/35781248/35984129-e6d8ecb4-0cda-11e8-94b3-0e51094d8153.jpg">
 </center>
